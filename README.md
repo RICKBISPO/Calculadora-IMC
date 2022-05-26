@@ -1,1 +1,1 @@
-# Calculadora-IMC
+# Calculadora (IMC)
